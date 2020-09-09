@@ -11,7 +11,7 @@ proguard-conf = proguard.conf, proguard_with_keep.conf
  
 `mvn clean package -Dproguard-runtime.version=6.2.2 -Dproguard-conf=proguard_with_keep.conf`
 
-### Result is seconds:
+### Result in seconds:
 ````
 __________________________________________
 |proguard-runtime.version ||       |       | 
